@@ -21,6 +21,6 @@ $ cd Mark
 $ git pull
 
 $ python kontol.py
-
-## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟
+## Make dong follow kaga asu lah..!
+## KASIH BINTANG WOY🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
