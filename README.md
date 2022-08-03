@@ -2,8 +2,7 @@
 
 ## Hasil
 
-[![FB-IMG-16595104855369183.jpg](https://i.postimg.cc/9f8CjFJ5/FB-IMG-16595104855369183.jpg)](https://postimg.cc/GByZFRWq)
-
+[![Screenshot-20220802-050120.png](https://i.postimg.cc/05frymZD/Screenshot-20220802-050120.png)](https://postimg.cc/Wtds9dB1)
 ## Sekrip
 
 $ pkg update && pkg upgrade
