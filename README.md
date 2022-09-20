@@ -2,8 +2,9 @@
 
 ## Hasil
 
-[![Screenshot-20220802-050120.png](https://i.postimg.cc/05frymZD/Screenshot-20220802-050120.png)](https://postimg.cc/Wtds9dB1)
-## Sekrip
+[![Screenshot-2022-09-20-00-17-20-57-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/q76xsxKp/Screenshot-2022-09-20-00-17-20-57-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/rdc4cWgH)
+##Sekrip
+
 
 $ pkg update && pkg upgrade
 
@@ -19,7 +20,7 @@ $ cd Mark
 
 $ git pull
 
-$ python kontol.py
+$ python OK.py
 ## Make dong follow kaga asu lah..!
 ## KASIH BINTANG WOY🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
